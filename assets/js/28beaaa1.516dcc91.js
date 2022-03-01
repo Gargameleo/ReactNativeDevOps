@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_native_dev_ops=self.webpackChunkreact_native_dev_ops||[]).push([[10],{6865:function(a){a.exports=JSON.parse('{"allTagsPath":"/ReactNativeDevOps/blog/tags","slug":"/ReactNativeDevOps/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/ReactNativeDevOps/blog/tags/docusaurus"}')}}]);
